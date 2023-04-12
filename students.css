@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background: #F5F5;
+}
+.logo{
+    position: absolute;
+width: 247px;
+height: 46px;
+left: 48px;
+top: 37px;
+}
+.logo2{
+    position: absolute;
+width: 447px;
+height: 83px;
+left: 958px;
+top: 37px;
+}
+.stud{
+    position: absolute;
+    width: 362px;
+    left: 48px;
+    height: 353px;
+    top: 136px;
+
+
+}
